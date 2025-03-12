@@ -1,6 +1,6 @@
 # Etch A Sketch 🖼️🎨 in the Browser
 
-# **Go to -->** 
+# **Go to -->** https://zwolak13.github.io/Etch-A-Sketch/
 
 Welcome to the **Etch A Sketch**—a fun, interactive drawing canvas in your web browser! ✨ Create your own masterpieces by rotating the knobs 🎛️, selecting colors 🎨, and drawing freely! Whether you're sketching circles, lines, or doodling your creativity, this canvas is all yours to control. 🎉
 
