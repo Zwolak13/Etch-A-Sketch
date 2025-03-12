@@ -32,6 +32,7 @@ c.strokeStyle = "black";
 resetButton.addEventListener("click", (e) =>{
     c.clearRect(0, 0, canvas.width, canvas.height);
     c.beginPath();
+    c.moveTo(brushPositionX, brushPositionY);
 });
 
 colorPicker.addEventListener("input", (e) => {
